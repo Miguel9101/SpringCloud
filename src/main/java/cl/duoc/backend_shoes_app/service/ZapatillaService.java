@@ -1,6 +1,6 @@
-package cl.duoc.backendshoesapp.service;
+package cl.duoc.backend_shoes_app.service;
 
-import cl.duoc.backendshoesapp.model.Zapatilla;
+import cl.duoc.backend_shoes_app.model.Zapatilla;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 

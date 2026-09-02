@@ -1,7 +1,7 @@
-package cl.duoc.backendshoesapp.controller;
+package cl.duoc.backend_shoes_app.controller;
 
-import cl.duoc.backendshoesapp.model.Zapatilla;
-import cl.duoc.backendshoesapp.service.ZapatillaService;
+import cl.duoc.backend_shoes_app.model.Zapatilla;
+import cl.duoc.backend_shoes_app.service.ZapatillaService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package cl.duoc.backendshoesapp.controller;
+package cl.duoc.backend_shoes_app.controller;
 
-import cl.duoc.backendshoesapp.service.ZapatillaNoEncontradaException;
+import cl.duoc.backend_shoes_app.service.ZapatillaNoEncontradaException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;

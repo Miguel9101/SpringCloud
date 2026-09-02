@@ -1,4 +1,4 @@
-package cl.duoc.backendshoesapp.service;
+package cl.duoc.backend_shoes_app.service;
 
 public class ZapatillaNoEncontradaException extends RuntimeException {
     public ZapatillaNoEncontradaException(Long id) {

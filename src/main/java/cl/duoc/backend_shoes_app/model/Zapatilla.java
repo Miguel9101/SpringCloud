@@ -1,4 +1,4 @@
-package cl.duoc.backendshoesapp.model;
+package cl.duoc.backend_shoes_app.model;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
